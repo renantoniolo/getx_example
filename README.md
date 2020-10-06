@@ -1,2 +1,2 @@
 # getx_example
- Repositório de exemplo, usando o GetX
+ App de exemplo usando GetX
