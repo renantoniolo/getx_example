@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:getx_example/controller/controller.dart';
 
+import 'navigatePage.dart';
+
 class Home extends StatelessWidget {
   final controller = Get.put(MyController());
 
@@ -35,7 +37,11 @@ class Home extends StatelessWidget {
                   ),
                   color: Colors.grey,
                   textColor: Colors.white,
-                  onPressed: controller.isValid ? () {} : null,
+                  onPressed: controller.isValid
+                      ? () {
+                          Get.to(NavigatePage());
+                        }
+                      : null,
                 ),
               ),
             ],

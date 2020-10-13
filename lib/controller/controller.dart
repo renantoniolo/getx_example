@@ -9,10 +9,8 @@ class MyController extends GetxController {
   validCpf(value) {
     if (CPF.isValid(value)) {
       this.isValid = true;
-      update();
     } else {
       this.isValid = false;
-      update();
     }
   }
 }
