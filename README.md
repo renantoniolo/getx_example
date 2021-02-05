@@ -1,5 +1,14 @@
-# getx_example
- - App de exemplo usando GetX
+# App valida cpf/cnpj
+ Aplicativo usando o `getX` para gerenciamento de estados na aplicação Flutter.
  
- ![Screenshot_1601948784](https://user-images.githubusercontent.com/8354309/95149587-add90a00-075c-11eb-8b66-af4fdd04dc72.png)
+  ### Projeto desenvolvido ultilizando:
+  - [x] Flutter
+  - [x] MVU
+  - [x] get: ^3.12.1
+  - [x] cpfcnpj: ^1.0.3
+  
+ ## Print Screen :foggy:
 
+| ![mobx](printscreen/getxImage.png) |
+|:---:|
+| Validar cpf ou cnpj | 
