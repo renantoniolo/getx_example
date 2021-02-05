@@ -1,5 +1,5 @@
 # App valida cpf/cnpj
- Aplicativo usando o `getX` para gerenciamento de estados na aplicação Flutter.
+ Aplicativo usando o `getX` para gerenciamento de estados na aplicação `Flutter.
  
   ### Projeto desenvolvido ultilizando:
   - [x] Flutter
