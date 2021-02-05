@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:getx_example/controller/controller.dart';
-
 import 'navigatePage.dart';
 
 class Home extends StatelessWidget {
